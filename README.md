@@ -4,11 +4,13 @@
 ***HEY THERE*** 
 
 
-**i'm Nguyen Minh Hoang :technologist:, A Computer Engineering Student on Industrial University Ho Chi Minh City**
+:technologist: **i'm Nguyen Minh Hoang , 
 
-My github is a small store to save my project during my studies. I hope my small store can help people who are interested in mobile apps to hone in on it.
+:man_student: **A Computer Engineering Student on Industrial University Ho Chi Minh City**
 
-And I also hope to be able to receive feedback from those who have gone before 
+:department_store: My github is a small store to save my project during my studies. I hope my small store can help people who are interested in mobile apps to hone in on it.
+
+:raising_hand_man:  And I also hope to be able to receive feedback from those who have gone before 
 
 
 
