@@ -4,7 +4,7 @@
 ***HEY THERE*** 
 
 
-:technologist: **i'm Nguyen Minh Hoang , 
+:technologist: ***i'm Nguyen Minh Hoang, *** 
 
 :man_student: **A Computer Engineering Student on Industrial University Ho Chi Minh City**
 
