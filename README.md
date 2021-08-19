@@ -4,7 +4,7 @@
 ***HEY THERE*** 
 
 
-**i'm Nguyen Minh Hoang, A Computer Engineering Student on Industrial University Ho Chi Minh City**
+**i'm Nguyen Minh Hoang :technologist:, A Computer Engineering Student on Industrial University Ho Chi Minh City**
 
 My github is a small store to save my project during my studies. I hope my small store can help people who are interested in mobile apps to hone in on it.
 
